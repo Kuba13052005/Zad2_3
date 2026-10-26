@@ -1,0 +1,1 @@
+- [Console Run workflow](replit-console-run.md) — Use a descriptive workflow name and map `.replit`'s Run button to it; `Project` is rejected.
